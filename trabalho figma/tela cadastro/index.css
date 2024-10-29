@@ -1,0 +1,440 @@
+.fundo-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1490px;
+    height: 1069.9px;
+    object-fit: cover;
+}
+.barra-topo-child {
+    position: absolute;
+    top: 159px;
+    left: 0px;
+    background-color: #373737;
+    width: 1906px;
+    height: 890px;
+}
+.barra-topo {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: 0px 9px 7px rgba(22, 22, 22, 0.79);
+    background-color: #e3b63a;
+    overflow: hidden;
+}
+.group-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 17px;
+    background-color: #fff;
+    cursor: pointer;
+}
+.perfil-icon {
+    position: absolute;
+    height: 52.68%;
+    width: 55.92%;
+    top: 23.35%;
+    right: 22.02%;
+    bottom: 23.98%;
+    left: 22.06%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    cursor: pointer;
+}
+.rectangle-parent {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.perfilfoto {
+    position: absolute;
+    height: 57.58%;
+    width: 2.99%;
+    top: 24.66%;
+    right: 0%;
+    bottom: 17.76%;
+    left: 97.01%;
+}
+.carrinho-icon {
+    position: absolute;
+    height: 30.95%;
+    width: 1.6%;
+    top: 38.29%;
+    right: 4.16%;
+    bottom: 30.76%;
+    left: 94.23%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    cursor: pointer;
+}
+.poit-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 15px;
+    background-color: #fff;
+}
+.cutpoint {
+    position: absolute;
+    height: 67.23%;
+    width: 90.52%;
+    top: 8.49%;
+    left: 4.93%;
+    white-space: pre-wrap;
+    display: inline-block;
+}
+.poit {
+    position: absolute;
+    height: 44.02%;
+    width: 6.14%;
+    top: 28.29%;
+    right: 6.99%;
+    bottom: 27.69%;
+    left: 86.87%;
+}
+.incio {
+    position: absolute;
+    height: 78.95%;
+    width: 14.41%;
+    top: 0%;
+    left: 0%;
+    display: inline-block;
+    cursor: pointer;
+}
+.cortes {
+    position: absolute;
+    height: 98.68%;
+    width: 16.96%;
+    top: 1.35%;
+    left: 18.84%;
+    display: inline-block;
+    cursor: pointer;
+}
+.horrios {
+    position: absolute;
+    height: 78.95%;
+    width: 21.83%;
+    top: 0%;
+    left: 41.54%;
+    display: inline-block;
+    cursor: pointer;
+}
+.localizao {
+    position: absolute;
+    height: 79.93%;
+    width: 31.07%;
+    top: 0.1%;
+    left: 68.92%;
+    display: inline-block;
+    cursor: pointer;
+}
+.inicio-etc {
+    position: absolute;
+    height: 37.48%;
+    width: 32.71%;
+    top: 35.72%;
+    right: 14.58%;
+    bottom: 26.79%;
+    left: 52.71%;
+    font-family: Inter;
+}
+.logo-hw-icon {
+    position: absolute;
+    height: 100%;
+    width: 5.34%;
+    top: 0%;
+    right: 94.66%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+}
+.barra {
+    position: absolute;
+    height: 71.14%;
+    width: 96.81%;
+    top: 14.04%;
+    right: 1.47%;
+    bottom: 14.82%;
+    left: 1.72%;
+}
+.tela-preincipal {
+    position: absolute;
+    height: 10.56%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 89.44%;
+    left: 0%;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #c9c9c9;
+    width: 369px;
+    height: 687px;
+}
+.hw-barber {
+    position: absolute;
+    top: 185.35px;
+    left: 108.35px;
+    font-size: 40px;
+    color: #e3b63a;
+    display: inline-block;
+    width: 144.1px;
+    height: 149.5px;
+}
+.venha {
+    margin: 0;
+}
+.venha-cortar-conosco-container {
+    position: absolute;
+    top: 325.53px;
+    left: 108.35px;
+    font-size: 32px;
+    color: #000;
+    display: inline-block;
+    width: 97.2px;
+    height: 236.7px;
+}
+.group-inner {
+    position: absolute;
+    top: 0px;
+    left: 358.75px;
+    border-radius: 10px;
+    background-color: #e3b63a;
+    width: 708.2px;
+    height: 686.9px;
+}
+.crie-sua-conta {
+    position: absolute;
+    top: calc(50% - 285.87px);
+    left: calc(50% - 149.73px);
+    font-size: 40px;
+    color: #000;
+    display: inline-block;
+    width: 208.9px;
+    height: 76.3px;
+}
+.boto-cadastrar-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #000;
+    width: 178.9px;
+    height: 63.3px;
+}
+.cadastrar {
+    position: absolute;
+    top: 16.34px;
+    left: 57px;
+    display: inline-block;
+    width: 64px;
+    height: 20px;
+}
+.boto-cadastrar {
+    position: absolute;
+    top: 612.66px;
+    left: 628.75px;
+    width: 178.9px;
+    height: 63.3px;
+    cursor: pointer;
+    color: #fff;
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #c9c9c9;
+    width: 406.6px;
+    height: 59.2px;
+}
+.senha {
+    position: absolute;
+    top: 16.78px;
+    left: 42.36px;
+    display: inline-block;
+    width: 39.2px;
+    height: 25px;
+    cursor: pointer;
+}
+.senha-icon {
+    position: absolute;
+    height: 33.78%;
+    width: 4.18%;
+    top: 33.41%;
+    right: 92.44%;
+    bottom: 32.81%;
+    left: 3.38%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.rectangle-container {
+    position: absolute;
+    top: 520.22px;
+    left: 401.01px;
+    width: 406.6px;
+    height: 59.2px;
+}
+.group-child1 {
+    position: absolute;
+    top: 433px;
+    left: 401.01px;
+    border-radius: 10px;
+    background-color: #c9c9c9;
+    width: 406.6px;
+    height: 59.2px;
+}
+.cpf {
+    position: absolute;
+    top: 450px;
+    left: 446.75px;
+    display: inline-block;
+    width: 29px;
+    height: 24px;
+    cursor: pointer;
+}
+.cpf-icon {
+    position: absolute;
+    height: 2.62%;
+    width: 1.69%;
+    top: 65.94%;
+    right: 59.49%;
+    bottom: 31.44%;
+    left: 38.83%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-child2 {
+    position: absolute;
+    top: 155.76px;
+    left: 401.01px;
+    border-radius: 10px;
+    background-color: #c9c9c9;
+    width: 406.6px;
+    height: 59.2px;
+}
+.nome {
+    position: absolute;
+    top: 174px;
+    left: 446.5px;
+    display: inline-block;
+    width: 39.2px;
+    height: 25px;
+    cursor: pointer;
+}
+.perfilusuario-icon {
+    position: absolute;
+    top: 174px;
+    left: 409.75px;
+    width: 27px;
+    height: 27px;
+    overflow: hidden;
+}
+.gnero {
+    position: absolute;
+    top: 17px;
+    left: 45.68px;
+    display: inline-block;
+    width: 52px;
+    height: 25px;
+    cursor: pointer;
+}
+.genero-icon {
+    position: absolute;
+    height: 27.03%;
+    width: 5.16%;
+    top: 37.16%;
+    right: 91.96%;
+    bottom: 35.81%;
+    left: 2.87%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-div {
+    position: absolute;
+    top: 249px;
+    left: 401.07px;
+    width: 406.6px;
+    height: 59.2px;
+}
+.group-child4 {
+    position: absolute;
+    top: 344.22px;
+    left: 401.01px;
+    border-radius: 10px;
+    background-color: #c9c9c9;
+    width: 406.6px;
+    height: 59.2px;
+}
+.idade {
+    position: absolute;
+    top: 361px;
+    left: 446.75px;
+    display: inline-block;
+    width: 39px;
+    height: 27px;
+    cursor: pointer;
+}
+.idade-icon {
+    position: absolute;
+    height: 2.91%;
+    width: 1.78%;
+    top: 52.98%;
+    right: 59.63%;
+    bottom: 44.1%;
+    left: 38.59%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.rectangle-group {
+    position: absolute;
+    top: 196px;
+    left: 223.25px;
+    width: 1066.9px;
+    height: 687px;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.tela-de-cadastro {
+    width: 100%;
+    position: relative;
+    background-color: #373737;
+    height: 1080px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 25px;
+    color: #000;
+    font-family: 'League Gothic';
+}
+
